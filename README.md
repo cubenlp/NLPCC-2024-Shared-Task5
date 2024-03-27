@@ -58,8 +58,6 @@ This shows an sample of data from the dataset used in this task, including the e
 
 ### **Distribution**
 
-**Table 2** **Distribution of dataset**
-
 | Dataset    | Number of essays | Number of sentences |
 | ---------- | ---------------- | ------------------- |
 | Train      | 135              | 2777                |
