@@ -1,5 +1,13 @@
 # **Argument Mining for Chinese Argumentative Essay**
 
+## News
+
+| Date      | News                                                  |
+| --------- | ----------------------------------------------------- |
+| 2024/3/25 | 评测任务开放报名，训练数据和guidelines将于4月15日公布 |
+
+
+
 ## **Task Introduction**
 
 Argumentative essay writing is an important way to promote the development and enhancement of students' higher-order thinking skills at the high school level, and is an important form of discursive expression. As Chinese national document for the teaching of language subjects, the *Language Curriculum Standards for General Senior Secondary Schools* (Revised in 2017 and 2020) explicitly states that senior secondary school students should "learn to express and explain their own views, and strive to make correct arguments, use accurate language, make appropriate arguments, and speak logically."[1]. High school students need to master effective argumentative essay writing methods, effectively improve the argumentative essay writing ability, but also expresses the need for teachers to provide more efficient guidance and effective training. By mining students' arguments in their argumentative essays, students are better able to verify the reliability of data, and identify reasonable reasoning processes to improve their logical expression skills. At the same time, teachers can assess the effectiveness of their teaching methods by analyzing the level of students' scientific argumentation, and adjust the course design and teaching methods according to the evaluation results to improve the quality of education.
@@ -10,11 +18,11 @@ The data for this task were derived from Chinese native-speaking high school stu
 
 ### **Task Description**
 
-Argument components identification for argumentative essays is important for the assessment of argumentative essays. This task takes the whole argumentative essay as an input unit and categorizes each sentence in it into 4 categories of assertion, evidence, elaboration, and others at a coarse-level. Considering the variety of argumentative techniques used in students' compositions, this task further categorized assertion into main claim, claim and restate claim, and further classify evidence into fact, anecdote, quotation, proverb and axiom as well. 
+Argument components identification for argumentative essays is important for the assessment of argumentative essays. This task takes the whole argumentative essay as input and categorizes each sentence in it into 4 categories of assertion, evidence, elaboration, and others at a coarse-level. According to the content and location of the assertion sentence,  this task further divides assertion into main claim, claim and restate claim. This task divides evidence into fact, anecdote, quotation, proverb and axiom according to the type and source of evidence as well.
 
 ### **Task** **Definition**
 
-This task can be regarded as a classification problem, in which an essay will be inputted and the model needs to predict the category of argumentative components to which each sentence belongs, as well as the fine-grained categorization under that category. This task defined 4 coarse-grained categories and 10 fine-grained categories as displayed in the Table below.
+In this task, an essay will be inputted and the model needs to predict the fine-grained category of argumentative components to which each sentence belongs. This task defined 10 fine-grained categories as displayed in the Table below.
 
 | Coarse-grained | Fine-grained  | Definition                                                   | Example                                                      |
 | -------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
