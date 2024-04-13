@@ -64,14 +64,6 @@ In this task, an essay will be inputted and the model needs to predict the fine-
 
 This shows an sample of data from the dataset used in this task, including the essay ID, title, document, and the coarse- and fine-grained categorization to which each sentence in the document belongs.
 
-### **Distribution**
-
-| Dataset    | Number of essays | Number of sentences |
-| ---------- | ---------------- | ------------------- |
-| Train      | 135              | 2777                |
-| Test       | 20               | 428                 |
-| Evaluation | 551              | 11750               |
-
 ## **Evaluation**
 
 The total score for this task consists of two parts: a coarse-grained categorization score as well as a fine-grained categorization score, which is calculated as follows:
