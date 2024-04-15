@@ -17,6 +17,7 @@
 | Ouchnai         | 国家开放大学，数字化学习技术集成与应用教育部工程研究中心     |
 | Lrt123          | Beijing Normal University, School of Artificial Intelligence, The Language and Character Resources Research Center of Beijing Normal University |
 | TW-NLP          | 北京慧点科技有限公司                                         |
+| Su              | Yunnan University                                            |
 
 ## **Contacts**
 
