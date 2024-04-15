@@ -18,6 +18,7 @@
 | Lrt123          | Beijing Normal University, School of Artificial Intelligence, The Language and Character Resources Research Center of Beijing Normal University |
 | TW-NLP          | 北京慧点科技有限公司                                         |
 | Su              | Yunnan University                                            |
+| Bjs_ignore_team | School of  Information Science and Engineering Yunnan University |
 
 ## **Contacts**
 
