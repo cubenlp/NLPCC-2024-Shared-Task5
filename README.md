@@ -19,6 +19,7 @@
 | TW-NLP          | 北京慧点科技有限公司                                         |
 | Su              | Yunnan University                                            |
 | Bjs_ignore_team | School of  Information Science and Engineering Yunnan University |
+| puer            | Pu’er University                                             |
 
 ## **Contacts**
 
