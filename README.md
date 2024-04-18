@@ -24,3 +24,7 @@
 ## **Contacts**
 
 chaos_yin@qq.com
+
+## Data Privacy Statement
+
+In order to properly handle and protect the data privacy and security of minors, any data involved in this task (data segments, reproductions, etc.) must not be used for any purpose other than this task, directly, indirectly, verbally or in writing. For academic and scientific research needs, please contact the organizer to inquire about the acquisition and use of the data.
