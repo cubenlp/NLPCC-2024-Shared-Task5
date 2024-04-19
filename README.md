@@ -20,6 +20,7 @@
 | Su              | Yunnan University                                            |
 | Bjs_ignore_team | School of  Information Science and Engineering Yunnan University |
 | puer            | Pu’er University                                             |
+| TeleAI          | China  Telecom Corporation Ltd. AI Technology Company        |
 
 ## **Contacts**
 
