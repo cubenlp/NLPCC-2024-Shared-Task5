@@ -5,7 +5,7 @@
 | Date      | News                                                  |
 | --------- | ----------------------------------------------------- |
 | 2024/3/25 | 评测任务开放报名，训练数据和guidelines将于4月15日公布 |
-| 2024/4/15 | 训练数据与guideline发布，报名截止时间为5月25日        |
+| 2024/4/15 | 训练数据与guideline发布，报名截止时间为5月25日。      |
 
 ## Participants
 
@@ -21,6 +21,7 @@
 | Bjs_ignore_team | School of  Information Science and Engineering Yunnan University |
 | puer            | Pu’er University                                             |
 | TeleAI          | China  Telecom Corporation Ltd. AI Technology Company        |
+| BlueSpace       | 极氪智能科技（杭州）有限公司                                 |
 
 ## **Contacts**
 
