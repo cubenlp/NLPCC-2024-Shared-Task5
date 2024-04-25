@@ -22,6 +22,7 @@
 | puer            | Pu’er University                                             |
 | TeleAI          | China  Telecom Corporation Ltd. AI Technology Company        |
 | BlueSpace       | 极氪智能科技（杭州）有限公司                                 |
+| freedom         | Soochow University                                           |
 
 ## **Contacts**
 
