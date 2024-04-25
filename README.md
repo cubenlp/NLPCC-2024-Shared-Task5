@@ -23,6 +23,7 @@
 | TeleAI          | China  Telecom Corporation Ltd. AI Technology Company        |
 | BlueSpace       | 极氪智能科技（杭州）有限公司                                 |
 | freedom         | Soochow University                                           |
+| qust_nlp        | Qingdao University of Science and Technology, China          |
 
 ## **Contacts**
 
