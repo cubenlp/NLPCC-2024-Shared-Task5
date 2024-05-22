@@ -6,6 +6,7 @@
 | --------- | ----------------------------------------------------- |
 | 2024/3/25 | 评测任务开放报名，训练数据和guidelines将于4月15日公布 |
 | 2024/4/15 | 训练数据与guideline发布，报名截止时间为5月25日。      |
+| 2024/5/25 | 报名截止，测试数据将于2024/6/11发布                   |
 
 ## Participants
 
@@ -26,6 +27,7 @@
 | qust_nlp         | Qingdao University of Science and Technology, China          |
 | Ikun             | Soochow University                                           |
 | ZZUNLP Alchemist | Zhengzhou university                                         |
+| CPIC             | China Pacific Insurance (Group) Co Ltd                       |
 
 ## **Contacts**
 
