@@ -28,6 +28,8 @@
 | Ikun             | Soochow University                                           |
 | ZZUNLP Alchemist | Zhengzhou university                                         |
 | CPIC             | China Pacific Insurance (Group) Co Ltd                       |
+| IN_Class         | Chinese  Academy of Social Science                           |
+| Prompt           | Zhongyuan University of Technology                           |
 
 ## **Contacts**
 
