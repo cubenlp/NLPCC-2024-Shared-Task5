@@ -30,6 +30,8 @@
 | CPIC             | China Pacific Insurance (Group) Co Ltd                       |
 | IN_Class         | Chinese  Academy of Social Science                           |
 | Prompt           | Zhongyuan University of Technology                           |
+| SIAT-NLP         | Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences |
+| DUT-xlarge       | 大连理工大学                                                 |
 
 ## **Contacts**
 
