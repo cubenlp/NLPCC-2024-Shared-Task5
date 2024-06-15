@@ -1,14 +1,15 @@
 | Rank | Team name  | Score |
 | ---- | ---------- | ----- |
-| 1    | SIAT-NLP   | 71.44 |
-| 2    | Prompt     | 70.87 |
-| 2    | DUT-xlarge | 70.18 |
-| 3    | TW-NLP     | 66.97 |
-| 4    | qust_nlp   | 47.71 |
-| 5    | baseline   | 44.61 |
-| 6    | NewFolder  | 38.53 |
+| 1    | TeleAI     | 79.24 |
+| 2    | TW-NLP     | 76.49 |
+| 3    | NewFolder  | 72.71 |
+| 4    | SIAT-NLP   | 72.48 |
+| 5    | Prompt     | 71.22 |
+| 6    | DUT-xlarge | 70.18 |
+| 7    | qust_nlp   | 52.87 |
+| 8    | baseline   | 44.61 |
 
-calculated at 20:13 on 2024/6/14
+calculated at 20:50 on 2024/6/15
 
 
 
