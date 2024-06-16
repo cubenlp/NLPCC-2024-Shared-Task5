@@ -2,15 +2,15 @@
 | ---- | ----------------- | ----- |
 | 1    | TeleAI            | 79.24 |
 | 2    | ZZU_NLP Alchemist | 76.72 |
-| 3    | TW-NLP            | 76.49 |
-| 4    | NewFolder         | 72.71 |
-| 5    | SIAT-NLP          | 72.48 |
-| 6    | Prompt            | 71.22 |
-| 7    | DUT-xlarge        | 70.18 |
-| 8    | qust_nlp          | 52.87 |
+| 3    | SIAT-NLP          | 75.11 |
+| 4    | Prompt            | 72.59 |
+| 5    | NewFolder         | 71.90 |
+| 6    | DUT-xlarge        | 69.84 |
+| 7    | TW-NLP            | 63.65 |
+| 8    | qust_nlp          | 55.62 |
 | 9    | baseline          | 44.61 |
 
-calculated at 21:03 on 2024/6/15
+calculated at 20:35 on 2024/6/16
 
 
 
