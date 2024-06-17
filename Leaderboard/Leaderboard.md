@@ -1,16 +1,18 @@
 | Rank | Team name         | Score |
 | ---- | ----------------- | ----- |
-| 1    | TeleAI            | 79.24 |
+| 1    | TeleAI            | 78.10 |
 | 2    | ZZU_NLP Alchemist | 76.72 |
-| 3    | SIAT-NLP          | 75.11 |
-| 4    | Prompt            | 72.59 |
-| 5    | NewFolder         | 71.90 |
-| 6    | DUT-xlarge        | 69.84 |
-| 7    | TW-NLP            | 63.65 |
-| 8    | qust_nlp          | 55.62 |
-| 9    | baseline          | 44.61 |
+| 3    | BlueSpace         | 76.49 |
+| 4    | SIAT-NLP          | 75.11 |
+| 5    | TW-NLP            | 73.05 |
+| 6    | NewFolder         | 72.02 |
+| 7    | Prompt            | 71.67 |
+| 8    | DUT-xlarge        | 69.72 |
+| 9    | Bjs_ignore_team   | 66.40 |
+| 10   | qust_nlp          | 55.62 |
+| 11   | baseline          | 44.61 |
 
-calculated at 20:35 on 2024/6/16
+calculated at 20:36 on 2024/6/17
 
 
 
