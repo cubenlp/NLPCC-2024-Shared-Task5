@@ -2,20 +2,21 @@
 | ---- | ----------------- | ----- |
 | 1    | TeleAI            | 79.36 |
 | 2    | BlueSpace         | 76.49 |
-| 3    | ouchnai           | 75.92 |
-| 4    | TW-NLP            | 75.69 |
-| 5    | SIAT-NLP          | 75.11 |
-| 5    | Prompt            | 75.11 |
-| 7    | NewFolder         | 73.51 |
-| 7    | GG Bond Forever   | 73.51 |
-| 9    | ZZU_NLP Alchemist | 73.39 |
-| 10   | freedom           | 73.28 |
-| 11   | DUT-xlarge        | 70.18 |
-| 12   | qust_nlp          | 69.04 |
-| 13   | Bjs_ignore_team   | 64.68 |
-| 14   | baseline          | 44.61 |
+| 2    | TW-NLP            | 76.49 |
+| 4    | ZZU_NLP Alchemist | 75.11 |
+| 5    | NewFolder         | 74.54 |
+| 6    | SIAT-NLP          | 74.43 |
+| 7    | GG Bond Forever   | 74.31 |
+| 8    | ouchnai           | 73.74 |
+| 9    | freedom           | 73.28 |
+| 10   | Prompt            | 72.36 |
+| 11   | qust_nlp          | 70.18 |
+| 12   | DUT-xlarge        | 68.69 |
+| 13   | Su                | 64.68 |
+| 14   | Bjs_ignore_team   | 62.16 |
+| 15   | baseline          | 44.61 |
 
-calculated at 20:33 on 2024/6/19
+calculated at 20:40 on 2024/6/20
 
 
 
